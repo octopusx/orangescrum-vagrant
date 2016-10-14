@@ -1,5 +1,5 @@
 include:
+  - .apache
   - .install
   - .mysql
-  - .apache
   - .php
